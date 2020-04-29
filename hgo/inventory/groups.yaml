@@ -1,0 +1,6 @@
+---
+
+switches:
+     username: cisco
+     password: cisco
+     platform: ios

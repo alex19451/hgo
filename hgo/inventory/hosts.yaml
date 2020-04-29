@@ -1,0 +1,28 @@
+---
+
+s1:
+    hostname: 3.3.3.1
+    groups: 
+         - switches
+s2:
+    hostname: 3.3.3.2
+    groups:
+         - switches
+s3:
+    hostname: 3.3.3.3
+    groups:
+         - switches
+s4:
+    hostname: 3.3.3.4
+    groups:
+         - switches
+s5:
+    hostname: 3.3.3.5
+    groups:
+         - switches
+s6:
+    hostname: 3.3.3.6
+    groups:
+         - switches
+
+
